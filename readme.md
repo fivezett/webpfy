@@ -1,6 +1,6 @@
 ﻿# webpfy
 A simple webp converter for images.
-That's created by C# .NET 6
+That's created by C# .NET 10
 
 ## usage
 - Convert by clipboard
