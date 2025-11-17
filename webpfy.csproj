@@ -10,6 +10,8 @@
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/fivezett/webpfy</RepositoryUrl>
     <ApplicationIcon>assets\icon.ico</ApplicationIcon>
+	<PublishSingleFile>true</PublishSingleFile>
+	<SelfContained>true</SelfContained>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
